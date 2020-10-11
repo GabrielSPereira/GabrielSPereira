@@ -1,5 +1,5 @@
 # Salve! :brazil:
-## Quem sou eu:
+## Um pouco sobre mim:
 
 - 💻 Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas
 - 📍 Bragança Paulista - SP - Brasil
