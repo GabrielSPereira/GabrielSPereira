@@ -3,7 +3,7 @@
 
 - 💻 Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas
 - 📍 Bragança Paulista - SP - Brasil
-- 📚 Atualmente estudando Java e C#
+- 📚 Atualmente estudando Python e React/Node
 - 💼 Estagiando em suporte de ERP em C#
 - :rocket:  Faço trabalhos para [Decada Tech](https://www.decadatech.com/) !
 
