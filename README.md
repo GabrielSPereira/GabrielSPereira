@@ -3,7 +3,6 @@
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 📌 Bragança Paulista - SP - Brasil
-- 📚 Atualmente estudando Laravel
 - 💼 Desenvolvedor .NET Fullstack
 - :rocket:  Faço trabalhos para [Decada Tech](https://github.com/decadatech) !
 
